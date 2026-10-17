@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "304bdd1f3a9b072911e86bb4",
+  "owner": "bmayjvtaa",
+  "repo": "page-7fa841d8f5a86f862960d6ac",
+  "title": "三次云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7fa841d8f5a86f862960d6ac",
+      "a": "三次云",
+      "b": "",
+      "entity": "三次云",
+      "brand": "三次云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "1a5196a82a4263f74cbc0fdb90a29ac0d3e15c02e53d82d371ada219db96bcfb",
+      "content": {
+        "keyword1": "三次云",
+        "keyword2": "",
+        "primary_entity": "三次云",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "三次云为您提供高性能的网络传输与稳定连接服务。杂志式极简多栏网格，墨黑与荧光绿视觉搭配，满足多场景设备连通需求。",
+          "AI_DESCRIPTION": "三次云为您提供高性能的网络传输与稳定连接服务。杂志式极简多栏网格，墨黑与荧光绿视觉搭配，满足多场景设备连通需求。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg-color: #0d0d0d;--panel-bg: #161616;--text-main: #f0f0f0;--text-muted: #888888;--accent: #00ff66;--accent-dim: #003314;--border-color: #262626;--radius: 16px}\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {background-color: var(--bg-color);color: var(--text-main);font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;line-height: 1.6;padding: 0 1rem}\nheader {max-width: 1200px;margin: 0 auto;padding: 2rem 0;display: flex;justify-content: space-between;align-items: center;border-bottom: 1px solid var(--border-color)}\n.brand-logo {font-size: 1.5rem;font-weight: 700;color: var(--accent);letter-spacing: -0.05em;text-decoration: none}\nnav {display: flex;gap: 1.5rem}\nnav a {color: var(--text-muted);text-decoration: none;font-size: 0.95rem;transition: color 0.2s}\nnav a:hover {color: var(--accent)}\nmain {max-width: 1200px;margin: 0 auto}\n.hero-section {padding: 5rem 0;border-bottom: 1px solid var(--border-color)}\n.hero-grid {display: grid;grid-template-columns: 2fr 1fr 1fr;gap: 2rem}\n.hero-main-col {background: var(--panel-bg);border-radius: var(--radius);padding: 3rem;box-shadow: 0 20px 40px rgba(0,0,0,0.5)}\n.hero-side-col {background: var(--panel-bg);border-radius: var(--radius);padding: 2rem;display: flex;flex-direction: column;justify-content: space-between;box-shadow: 0 20px 40px rgba(0,0,0,0.5)}\nh1 {font-size: 3.5rem;line-height: 1.1;font-weight: 800;letter-spacing: -0.03em;margin-bottom: 1.5rem;color: var(--text-main)}\nh1 span {color: var(--accent)}\n.hero-quote {font-size: 1.25rem;color: var(--text-muted);border-left: 3px solid var(--accent);padding-left: 1rem;margin-bottom: 2rem}\n.stat-number {font-size: 2.5rem;font-weight: 700;color: var(--accent)}\n.stat-label {font-size: 0.85rem;color: var(--text-muted);text-transform: uppercase;letter-spacing: 0.05em}\n.section {padding: 5rem 0;border-bottom: 1px solid var(--border-color)}\n.section-title {font-size: 2rem;margin-bottom: 3rem;font-weight: 700;letter-spacing: -0.02em}\n.section-title span {color: var(--accent)}\n.features-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));gap: 2rem}\n.card {background: var(--panel-bg);border-radius: var(--radius);padding: 2.5rem;box-shadow: 0 10px 30px rgba(0,0,0,0.4);transition: transform 0.2s}\n.card:hover {transform: translateY(-4px)}\n.card h3 {font-size: 1.25rem;margin-bottom: 1rem;color: var(--text-main)}\n.card p {color: var(--text-muted);font-size: 0.95rem}\n.table-container {width: 100%;overflow-x: auto}\ntable {width: 100%;border-collapse: collapse;background: var(--panel-bg);border-radius: var(--radius);overflow: hidden;box-shadow: 0 10px 30px rgba(0,0,0,0.4)}\nth, td {padding: 1.25rem 1.5rem;text-align: left;border-bottom: 1px solid var(--border-color)}\nth {background: #1f1f1f;font-weight: 600;color: var(--accent)}\ntd {color: var(--text-muted);font-size: 0.95rem}\ntd:first-child {color: var(--text-main);font-weight: 600}\ntr:last-child td {border-bottom: none}\n.highlight-cell {background: var(--accent-dim);color: var(--text-main) !important}\n.faq-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));gap: 2rem}\n.faq-item {background: var(--panel-bg);border-radius: var(--radius);padding: 2rem;box-shadow: 0 10px 30px rgba(0,0,0,0.4)}\n.faq-item h3 {font-size: 1.1rem;margin-bottom: 0.75rem;color: var(--text-main)}\n.faq-item p {color: var(--text-muted);font-size: 0.95rem}\nfooter {max-width: 1200px;margin: 0 auto;padding: 3rem 0;display: flex;justify-content: space-between;align-items: center;color: var(--text-muted);font-size: 0.85rem}\n@media (max-width: 900px) {\n  .hero-grid {grid-template-columns: 1fr}\n  .faq-grid {grid-template-columns: 1fr}\n  h1 {font-size: 2.5rem}\n}\n</style><header>\n  <a href=\"#\" class=\"brand-logo\">三次云</a>\n  <nav>\n    <a href=\"#features\">特性</a>\n    <a href=\"#plans\">套餐</a>\n    <a href=\"#faq\">常见问题</a>\n  </nav>\n</header>\n\n<main>\n  <section class=\"hero-section\">\n    <div class=\"hero-grid\">\n      <div class=\"hero-main-col\">\n        <p class=\"hero-quote\">“在数据流动的深处，极简与速度交汇。为专业用户构建的高性能传输枢纽。”</p>\n        <h1>重构网络连接，<span>三次云</span>呈现卓越传输。</h1>\n        <p>剥离繁复，直击核心。我们专注于提供稳定、快速且纯粹的网络底层传输体验。</p>\n      </div>\n      <div class=\"hero-side-col\">\n        <div>\n          <div class=\"stat-label\">连接可用性</div>\n          <div class=\"stat-number\">99.9%</div>\n        </div>\n        <p>全天候动态监控，保障链路持续通畅。</p>\n      </div>\n      <div class=\"hero-side-col\">\n        <div>\n          <div class=\"stat-label\">响应时延</div>\n          <div class=\"stat-number\">极低</div>\n        </div>\n        <p>优化路由策略，削减不必要的中间开销。</p>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"features\" class=\"section\">\n    <h2 class=\"section-title\">核心设计 <span>与优势</span></h2>\n    <div class=\"features-grid\">\n      <div class=\"card\">\n        <h3>极速流量调度</h3>\n        <p>科学规划传输路径，智能绕过拥堵节点，确保每一次数据交互高效顺畅。</p>\n      </div>\n      <div class=\"card\">\n        <h3>多设备协同</h3>\n        <p>账户支持多端并发在线，手机、平板、桌面端无缝切换，同步高效。</p>\n      </div>\n      <div class=\"card\">\n        <h3>专线深度优化</h3>\n        <p>精选优质骨干网络接入，兼顾稳定与速度，适应各种严苛场景。</p>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"plans\" class=\"section\">\n    <h2 class=\"section-title\">灵活套餐 <span>横向对比</span></h2>\n    <div class=\"table-container\">\n      <table>\n        <thead>\n          <tr>\n            <th>服务配置</th>\n            <th>基础版</th>\n            <th class=\"highlight-cell\">旗舰版 (推荐)</th>\n            <th>团队版</th>\n          </tr>\n        </thead>\n        <tbody>\n          <tr>\n            <td>每月价格</td>\n            <td>¥15 / 月</td>\n            <td class=\"highlight-cell\">¥35 / 月</td>\n            <td>¥85 / 月</td>\n          </tr>\n          <tr>\n            <td>年付优惠</td>\n            <td>按年付仅需 ¥150/年</td>\n            <td class=\"highlight-cell\">按年付仅需 ¥350/年</td>\n            <td>按年付仅需 ¥850/年</td>\n          </tr>\n          <tr>\n            <td>极速流量</td>\n            <td>每月 100GB 极速流量</td>\n            <td class=\"highlight-cell\">每月 300GB 极速流量</td>\n            <td>每月 1000GB 极速流量</td>\n          </tr>\n          <tr>\n            <td>设备在线</td>\n            <td>支持 3 台设备同时在线</td>\n            <td class=\"highlight-cell\">支持 5 台设备同时在线</td>\n            <td>支持 20 台设备同时在线</td>\n          </tr>\n          <tr>\n            <td>流媒体与节点</td>\n            <td>解锁基础流媒体 / 普通节点</td>\n            <td class=\"highlight-cell\">全节点原生流媒体 / IPLC 专线优化</td>\n            <td>VIP 专属高带宽 / 企业定制路由</td>\n          </tr>\n          <tr>\n            <td>技术支持</td>\n            <td>标准工单响应</td>\n            <td class=\"highlight-cell\">7x24 优先工单支持</td>\n            <td>专属客户经理服务</td>\n          </tr>\n        </tbody>\n      </table>\n    </div>\n  </section>\n\n  <section id=\"faq\" class=\"section\">\n    <h2 class=\"section-title\">常见问题 <span>解答</span></h2>\n    <div class=\"faq-grid\">\n      <div class=\"faq-item\">\n        <h3>如何开始使用三次云服务？</h3>\n        <p>注册账户并选择适合您的套餐，依据客户端指引导入配置即可快速接入。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h3>套餐流量如何计算与重置？</h3>\n        <p>流量按自然月周期进行重置，未用完的流量不累积到下一个周期。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h3>支持哪些客户端与操作系统？</h3>\n        <p>主流平台均有适配客户端，涵盖主流移动与桌面操作系统。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h3>是否提供专属定制线路支持？</h3>\n        <p>团队版用户可享受企业级定制路由与高带宽专线接入服务。</p>\n      </div>\n    </div>\n  </section>\n</main>\n\n<footer>\n  <div>© 三次云 保留所有权利。</div>\n  <div>极简传输，连接未来。</div>\n</footer>",
+          "hash": "42d1d7eda78b2484c0c338ce37cbb24889a95d7de845a871fc7982243536bd67",
+          "seo": {
+            "title": "三次云 - 高性能网络连接与稳定传输服务",
+            "keywords": "三次云, 网络传输, IPLC专线, 稳定连接, 流量服务",
+            "description": "三次云为您提供高性能的网络传输与稳定连接服务。杂志式极简多栏网格，墨黑与荧光绿视觉搭配，满足多场景设备连通需求。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "7370",
+            "hero": "3 杂志式多栏网格配引言",
+            "palette": "1 墨黑配荧光绿",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "uhivway.cn",
+    "host": "p-a88fad9461.uhivway.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "d1172856c4d37af31de422ba49ad18dabea7df931b454045ac921cb8b5732061",
+    "sitemap.xml": "351387893790d20ec4f3c6e3483ab03f8607487745cd961f9f9028e4870aaecd",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4b0c0dc1bf8a6f891d7c4de85008a32a918a26855c96aeac1dfe54a23baea680",
+    "robots.txt": "59c74b1a50f42d38edf53d84c5640b6c19c1ab72b1ea279f2b60615d2a377361",
+    "15d5be4c842942516f1a2292081c094e.txt": "d26a66632f15e404dd368641be9b638c52d60fbe6cfd64231fb30b9fc730c142"
+  },
+  "revision": "02e2e984a364f380a306aefad91328e7daf1186888beaaf96adfbdc5f240dedc"
+}
